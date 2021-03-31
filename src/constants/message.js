@@ -1,0 +1,7 @@
+const MESSAGE = {
+  PENDING: 'MESSAGE_PENDING',
+  SUCCESS: 'MESSAGE_SUCCESS',
+  FAIL: 'MESSAGE_FAIL',
+};
+
+export default MESSAGE;

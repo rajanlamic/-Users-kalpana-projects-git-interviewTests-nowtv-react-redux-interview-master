@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`message should render Message property 1`] = `
+<li
+  className="message"
+>
+  <div
+    title="test@email.com"
+  >
+    test message
+  </div>
+  <div>
+    <img
+      alt="http://dummyimage.com/100x100.png/5fa2dd/fffff"
+      src="http://dummyimage.com/100x100.png/5fa2dd/fffff"
+    />
+  </div>
+  <div>
+    24-02-2016 00:01
+  </div>
+</li>
+`;
